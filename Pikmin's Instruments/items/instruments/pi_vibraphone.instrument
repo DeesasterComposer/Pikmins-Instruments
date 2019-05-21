@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_vibraphone",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "vibraphoneicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A vibraphone. No need to be an idiot to play an idiophone like this.",
+  "shortdescription" : "Vibraphone",
+  "largeImage" : "vibraphone.png",
+  "image" : "vibraphone.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "vibraphone.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0, 0],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "pi_vibraphone"
+}

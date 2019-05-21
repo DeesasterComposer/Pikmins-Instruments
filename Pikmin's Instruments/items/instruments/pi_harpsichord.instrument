@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_harpsichord",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "harpsichordicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A harpsichord. Just like the good old days.",
+  "shortdescription" : "Harpsichord",
+  "largeImage" : "harpsichord.png",
+  "image" : "harpsichord.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "harpsichord.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.35, 0],
+
+  "handPosition" : [0.35, 0],
+  "twoHanded" : true,
+  "kind" : "pi_harpsichord"
+}

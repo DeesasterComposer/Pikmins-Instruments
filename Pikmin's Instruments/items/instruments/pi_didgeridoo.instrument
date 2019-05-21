@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_didgeridoo",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "didgeicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A didgeridoo. Didgeridoo, where are you?",
+  "shortdescription" : "Didgeridoo",
+  "largeImage" : "didge.png",
+  "image" : "didge.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "didge.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0, 0],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "pi_didgeridoo"
+}

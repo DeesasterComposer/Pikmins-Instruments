@@ -1,0 +1,13 @@
+{
+  "author" : "PikminThePikmin",
+  "description" : "A mod that adds new instruments to the game, all of which being accessible from the Musician's Terminal.",
+  "friendlyName" : "Pikmin's Instruments",
+  "includes" : [],
+  "link" : "steam://url/CommunityFilePage/1312316754",
+  "name" : "Pikmin's Instruments",
+  "priority" : -1,
+  "requires" : [],
+  "steamContentId" : "1312316754",
+  "tags" : "Musical Instruments and Songs",
+  "version" : "1.7.1"
+}

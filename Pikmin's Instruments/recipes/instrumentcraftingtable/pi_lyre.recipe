@@ -1,0 +1,10 @@
+{
+  "input" : [  
+    { "item" : "money", "count" : 3000 }
+  ],
+  "output" : {
+    "item" : "pi_lyre",
+    "count" : 1
+  },
+  "groups" : [ "craftinginstrument", "instruments", "all" ]
+}

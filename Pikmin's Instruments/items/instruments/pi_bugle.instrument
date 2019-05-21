@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_bugle",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "bugleicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A bugle. Just a generic bugle.",
+  "shortdescription" : "Bugle",
+  "largeImage" : "bugle.png",
+  "image" : "bugle.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "bugle.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0, 0],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "trumpet"
+}

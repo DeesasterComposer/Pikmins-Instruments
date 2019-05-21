@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_heroguitar",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "heroguitaricon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "The guitar of heroes. Only true heroes can play it.",
+  "shortdescription" : "The Hero's Guitar",
+  "largeImage" : "heroguitar.png",
+  "image" : "heroguitar.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "heroguitar.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.1, 0.1],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "pi_heroguitar"
+}

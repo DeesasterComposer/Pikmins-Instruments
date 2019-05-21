@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_doublebass",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "doublebassicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A double bass. But I only see one?",
+  "shortdescription" : "Double Bass",
+  "largeImage" : "doublebass.png",
+  "image" : "doublebass.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "doublebassactive.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [-0.1, 0],
+
+  "handPosition" : [-0.1, 0],
+  "twoHanded" : true,
+  "kind" : "pi_doublebass"
+}

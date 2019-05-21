@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_balalaika",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "balalaikaicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A balalaika. Wasn't that the name of the first dog that went to space?",
+  "shortdescription" : "Balalaika",
+  "largeImage" : "balalaika.png",
+  "image" : "balalaika.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "balalaika.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.1, 0.1],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "pi_balalaika"
+}

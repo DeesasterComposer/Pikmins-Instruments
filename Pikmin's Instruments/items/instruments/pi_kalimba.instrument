@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_kalimba",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "kalimbaicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A kalimba. A piano for the thumbs.",
+  "shortdescription" : "Kalimba",
+  "largeImage" : "kalimba.png",
+  "image" : "kalimba.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "kalimba.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0, 0],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "pi_kalimba"
+}

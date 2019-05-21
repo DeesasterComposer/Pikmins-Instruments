@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_seinfeldguitar",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "slapbassicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A slap bass guitar. Perfect for classic comedies.",
+  "shortdescription" : "Slap Bass Guitar",
+  "largeImage" : "slapbass.png",
+  "image" : "slapbass.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "slapbass.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.1, 0.1],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "pi_seinfeld"
+}

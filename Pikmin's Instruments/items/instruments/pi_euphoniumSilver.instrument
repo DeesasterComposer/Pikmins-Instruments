@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_euphoniumSilver",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "euphoniumSilvericon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A silver euphonium. This one happens to be silver.",
+  "shortdescription" : "Silver Euphonium",
+  "largeImage" : "euphoniumSilver.png",
+  "image" : "euphoniumSilver.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "euphoniumSilver.png",
+  "activeAngle" : -3,
+  "activeHandPosition" : [0, 0],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "pi_euphonium"
+}

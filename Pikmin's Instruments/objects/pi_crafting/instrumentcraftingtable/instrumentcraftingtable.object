@@ -1,0 +1,53 @@
+{
+  "objectName" : "instrumentcraftingtable",
+  "colonyTags" : ["crafting"],
+  "printable" : false,
+  "price" : 30,
+  "rarity" : "Uncommon",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftinginstrument.config",
+    "filter" : [ "craftinginstrument" ]
+  },
+  "description" : "A terminal used to order musical instruments.",
+  "shortdescription" : "^orange;Musician's Terminal^white;",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "apexDescription" : "A terminal for ordering instruments for musicians.",
+  "avianDescription" : "This terminal enables me to order a wide range of musical instruments.",
+  "floranDescription" : "Floran can make musssic with thiss.",
+  "glitchDescription" : "Intrigued. It's a terminal for ordering instruments.",
+  "humanDescription" : "I could make my own symphony!",
+  "hylotlDescription" : "A terminal that can be used to order some beautiful instruments with.",
+  "novakidDescription" : "A l'il terminal for orderin' instruments.",
+
+  "inventoryIcon" : "instrumentcraftingtableicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "instrumentcraftingtable.png:<color>.<frame>", "fullbright" : true }, { "image" : "instrumentcraftingtablelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "frames" : 17,
+      "animationCycle" : 1.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+	{
+      "imageLayers" : [ { "image" : "instrumentcraftingtable.png:<color>.<frame>", "fullbright" : true }, { "image" : "instrumentcraftingtablelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "right",
+
+      "frames" : 17,
+      "animationCycle" : 1.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

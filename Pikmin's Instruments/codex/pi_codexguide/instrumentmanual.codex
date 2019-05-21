@@ -1,0 +1,22 @@
+{
+  "id" : "instrumentmanual",
+  "title" : "Musician's Terminal Manual",
+  "description" : "The manual for the Musician's Terminal, produced by Pikmin Ingine Kader and Co.",
+  "icon" : "instrumentmanual.png",
+  "contentPages" : [
+    "Thank you for buying our product; the Musician's Terminal! We appreciate your purchase greatly.
+
+The Musician's Terminal is used to order any and all of our various instruments straight from anywhere.
+
+To begin ordering one of our many instruments, you must directly send us a deposit of three thousand pixels via the table.",
+
+"After that is said and done, we shall deliver one of our fine instruments directly to your Musician's Table within moments.
+
+From there, you may enjoy your newly bought and freshly polished instrument!"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Common",
+    "price" : 25
+  }
+}

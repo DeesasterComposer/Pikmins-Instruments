@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_baritonesax",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "saxophonebariicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A baritone saxophone. Pretty much just a chainsaw with vibrato.",
+  "shortdescription" : "Baritone Saxophone",
+  "largeImage" : "saxophonebari.png",
+  "image" : "saxophonebari.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "saxophonebari.png",
+  "activeAngle" : -6,
+  "activeHandPosition" : [0, 0],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "pi_saxophonebari"
+}

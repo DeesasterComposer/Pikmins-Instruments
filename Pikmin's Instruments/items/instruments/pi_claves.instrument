@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_claves",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "clavesicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A pair of claves.",
+  "shortdescription" : "Claves",
+  "largeImage" : "claves.png",
+  "image" : "claves.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "clavesactive.png",
+  "activeAngle" : -10,
+  "activeHandPosition" : [0, -0.1],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "pi_claves"
+}

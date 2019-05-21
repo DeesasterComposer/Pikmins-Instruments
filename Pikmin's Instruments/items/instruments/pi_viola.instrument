@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_viola",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "violinicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A viola. There's a difference.",
+  "shortdescription" : "Viola",
+  "largeImage" : "viola.png",
+  "image" : "viola.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "viola.png",
+  "activeAngle" : -2,
+  "activeHandPosition" : [-0.3, 0],
+
+  "handPosition" : [-0.3, 0],
+  "twoHanded" : true,
+  "kind" : "pi_viola"
+}

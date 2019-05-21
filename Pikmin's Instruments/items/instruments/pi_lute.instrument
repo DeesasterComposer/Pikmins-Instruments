@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_lute",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "luteicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "An oud. Just like bards of old used.",
+  "shortdescription" : "Oud",
+  "largeImage" : "lute.png",
+  "image" : "lute.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "lute.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.1, 0.1],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "pi_lute"
+}

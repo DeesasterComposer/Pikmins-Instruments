@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_tubebells",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "tubebellsicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "The tubular bells. They're less tubular than they sound.",
+  "shortdescription" : "Tubular Bells",
+  "largeImage" : "tubebells.png",
+  "image" : "tubebells.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "tubebells.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0, 0],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "pi_tubularbells"
+}

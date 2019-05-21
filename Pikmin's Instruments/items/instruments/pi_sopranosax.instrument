@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_sopranosax",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "saxophonesopricon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A soprano saxophone. Pretty much just a clarinet with yellow paint on it.",
+  "shortdescription" : "Soprano Saxophone",
+  "largeImage" : "saxophonesopr.png",
+  "image" : "saxophonesopr.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "saxophonesopr.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0.2, -0.1],
+
+  "handPosition" : [0.3, 0],
+  "twoHanded" : true,
+  "kind" : "pi_saxophonesopr"
+}

@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_membranophone",
+  "price" : 4000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "membranophone.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A membranophone. It's definitely not a kazoo.",
+  "shortdescription" : "Membranophone",
+  "largeImage" : "membranophone.png",
+  "image" : "membranophone.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "membranophone.png",
+  "activeAngle" : 0,
+  "activeHandPosition" : [0, 0],
+
+  "handPosition" : [0, 0],
+  "twoHanded" : true,
+  "kind" : "pi_membranophone"
+}

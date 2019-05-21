@@ -1,0 +1,20 @@
+{
+  "itemName" : "pi_lyre",
+  "price" : 3000,
+  "category" : "musicalInstrument",
+  "inventoryIcon" : "lyreicon.png",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A lyre. From the ancient Greek times.",
+  "shortdescription" : "Lyre",
+  "largeImage" : "lyre.png",
+  "image" : "lyre.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "lyre.png",
+  "activeAngle" : -30,
+  "activeHandPosition" : [0, 0.3],
+
+  "handPosition" : [0.1, 0.1],
+  "twoHanded" : true,
+  "kind" : "harp"
+}
